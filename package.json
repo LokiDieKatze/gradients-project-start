@@ -35,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/LokiDieKatze/gradients-project-start.git",
+  "author": "LokiDieKatze <sarah.marques.fr@gmail.com>",
+  "license": "MIT"
 }
